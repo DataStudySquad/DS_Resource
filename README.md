@@ -5,7 +5,15 @@
 
 
 ## DS learning resources
+- `feel free to add your idea here`
 
 ## PR process 
+```
+make a new branch -> work/update on your local branch -> make a branch at code base (github) -> push change to code base branch 
+-> all test passed -> make a pull request (PR) -> all test passed
+-> code review -> merge to master  
+
+```
 
 ## Development 
+- `dev `
