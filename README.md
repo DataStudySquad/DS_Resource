@@ -17,6 +17,7 @@
 create a new local branch -> work/update on your local branch -> create a branch at code base (github) -> push change to code base branch  -> all test passed  -> make a pull request (PR) -> code review  -> all test passed ->  merge to master  
 
 ```
+[reference](https://github.com/DataStudySquad/DS_Resource/blob/master/commit_to_github.md)
 
 ## Development 
 - `dev `
