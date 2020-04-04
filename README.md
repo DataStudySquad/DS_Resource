@@ -4,20 +4,37 @@
 3. Feel free to open up a new repo for learning process sharing 
 4. Topic : data science, data engineering 
 
+### DS learning resources
+- `feel free to add your idea below`
 
-## DS learning resources
-- `feel free to add your idea here`
+### Python  
+* [Python official intro](https://docs.python.org/3/tutorial/) - official python tutorial 
+* [Python central tutorial](https://www.pythoncentral.io/) - pythoncentral  tutorial
+* [Python udacity](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity python 101 course
+* [Python codecademy](https://www.codecademy.com/learn/learn-python) - codecademy python course
+* [101 NumPy Exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/) - a good  exercises test your Numpy skills 
+* [Getting Started With Testing in Python](https://realpython.com/python-testing/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - learn how to write test with python 
+* [Learn functional pyhton in 10 munute](https://hackernoon.com/learn-functional-python-in-10-minutes-to-2d1651dece6f?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - learn functional programming via python 
+* [Python exceptions](https://realpython.com/python-exceptions/) - learn how to handle exceptions in python 
+* [Software Testing -- Python](https://www.udacity.com/course/software-testing--cs258)
+* [Software Debugging -- Python](https://www.udacity.com/course/software-debugging--cs259)
 
-- Machine learning 
-	- https://github.com/afshinea/stanford-cs-230-deep-learning
-	- https://github.com/theainerd/MLInterview
+### SQL 
+* [w3schools sql turtorial](https://www.w3schools.com/sql/)
+* [tutorialspoint sql turtorial](https://www.tutorialspoint.com/sql/index.htm)
+* [codecademy sql turtorial](https://www.codecademy.com/learn/learn-sql)
+* [geeksforgeeks sql turtorial](https://www.geeksforgeeks.org/sql-tutorial/)
+* [guru99 sql turtorial](https://www.guru99.com/sql.html)
+* [mode.com sql turtorial](https://mode.com/sql-tutorial/)
+* [w3resource sql test](https://www.w3resource.com/sql-exercises/)
 
-## PR process 
+### Machine learning 
+- https://github.com/afshinea/stanford-cs-230-deep-learning
+- https://github.com/theainerd/MLInterview
+
+### Development
+- Make a PR (pull request)
 ```
 create a new local branch -> work/update on your local branch -> create a branch at code base (github) -> push change to code base branch  -> all test passed  -> make a pull request (PR) -> code review  -> all test passed ->  merge to master  
-
 ```
-[reference](https://github.com/DataStudySquad/DS_Resource/blob/master/commit_to_github.md)
-
-## Development 
-- `dev `
+- [reference](https://github.com/DataStudySquad/DS_Resource/blob/master/commit_to_github.md)
