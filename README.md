@@ -1,13 +1,20 @@
 # DS_Resource
-1. Repo for sharing data science learning resources. 
-2. Feel free to update the DS resources via make a [PR](https://github.com/DataStudySquad/DS_Resource/pulls)
-3. Feel free to open up a new repo for learning process sharing 
-4. Topic : data science, data engineering 
+- Repo for sharing data science learning resources. 
+- Feel free to update the DS resources via make a [PR](https://github.com/DataStudySquad/DS_Resource/pulls)
 
 ### DS learning resources
 - `feel free to add your idea below`
 
-### Python  
+### SQL 
+* [w3schools sql turtorial](https://www.w3schools.com/sql/)
+* [tutorialspoint sql turtorial](https://www.tutorialspoint.com/sql/index.htm)
+* [codecademy sql turtorial](https://www.codecademy.com/learn/learn-sql)
+* [geeksforgeeks sql turtorial](https://www.geeksforgeeks.org/sql-tutorial/)
+* [guru99 sql turtorial](https://www.guru99.com/sql.html)
+* [mode.com sql turtorial](https://mode.com/sql-tutorial/)
+* [w3resource sql test](https://www.w3resource.com/sql-exercises/)
+
+### PYTHON  
 * [Python official intro](https://docs.python.org/3/tutorial/) - official python tutorial 
 * [Python central tutorial](https://www.pythoncentral.io/) - pythoncentral  tutorial
 * [Python udacity](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity python 101 course
@@ -19,16 +26,7 @@
 * [Software Testing -- Python](https://www.udacity.com/course/software-testing--cs258)
 * [Software Debugging -- Python](https://www.udacity.com/course/software-debugging--cs259)
 
-### SQL 
-* [w3schools sql turtorial](https://www.w3schools.com/sql/)
-* [tutorialspoint sql turtorial](https://www.tutorialspoint.com/sql/index.htm)
-* [codecademy sql turtorial](https://www.codecademy.com/learn/learn-sql)
-* [geeksforgeeks sql turtorial](https://www.geeksforgeeks.org/sql-tutorial/)
-* [guru99 sql turtorial](https://www.guru99.com/sql.html)
-* [mode.com sql turtorial](https://mode.com/sql-tutorial/)
-* [w3resource sql test](https://www.w3resource.com/sql-exercises/)
-
-### Machine learning 
+### ML 
 - https://github.com/afshinea/stanford-cs-230-deep-learning
 - https://github.com/theainerd/MLInterview
 
