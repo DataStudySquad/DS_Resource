@@ -6,13 +6,13 @@
 - `feel free to add your idea below`
 
 ### SQL 
-* [w3schools sql turtorial](https://www.w3schools.com/sql/)
-* [tutorialspoint sql turtorial](https://www.tutorialspoint.com/sql/index.htm)
-* [codecademy sql turtorial](https://www.codecademy.com/learn/learn-sql)
-* [geeksforgeeks sql turtorial](https://www.geeksforgeeks.org/sql-tutorial/)
-* [guru99 sql turtorial](https://www.guru99.com/sql.html)
-* [mode.com sql turtorial](https://mode.com/sql-tutorial/)
-* [w3resource sql test](https://www.w3resource.com/sql-exercises/)
+* [w3schools sql turtorial](https://www.w3schools.com/sql/) - simple sql by step sql intro
+* [tutorialspoint sql turtorial](https://www.tutorialspoint.com/sql/index.htm) - simple sql by step sql intro
+* [codecademy sql turtorial](https://www.codecademy.com/learn/learn-sql) - learn by doing. codecademy offers severl sql relative courses in practices
+* [geeksforgeeks sql turtorial](https://www.geeksforgeeks.org/sql-tutorial/) - a bit detailed sql tutorial. including some advanced toics
+* [guru99 sql turtorial](https://www.guru99.com/sql.html) - a bit advanced sql tutorial.
+* [mode.com sql turtorial](https://mode.com/sql-tutorial/) - from beginning to advanced, including hands-on cases. Highly recommended 
+* [w3resource sql test](https://www.w3resource.com/sql-exercises/) - sql test. show me what you've got!
 
 ### PYTHON  
 * [Python official intro](https://docs.python.org/3/tutorial/) - official python tutorial 
@@ -23,8 +23,8 @@
 * [Getting Started With Testing in Python](https://realpython.com/python-testing/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - learn how to write test with python 
 * [Learn functional pyhton in 10 munute](https://hackernoon.com/learn-functional-python-in-10-minutes-to-2d1651dece6f?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - learn functional programming via python 
 * [Python exceptions](https://realpython.com/python-exceptions/) - learn how to handle exceptions in python 
-* [Software Testing -- Python](https://www.udacity.com/course/software-testing--cs258)
-* [Software Debugging -- Python](https://www.udacity.com/course/software-debugging--cs259)
+* [Software Testing -- Python](https://www.udacity.com/course/software-testing--cs258) - write test in python (advanced)
+* [Software Debugging -- Python](https://www.udacity.com/course/software-debugging--cs259) - debug in python (advanced)
 
 ### ML 
 - https://github.com/afshinea/stanford-cs-230-deep-learning
