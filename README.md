@@ -5,15 +5,6 @@
 ### DS learning resources
 - `feel free to add your idea below`
 
-### SQL 
-* [w3schools sql turtorial](https://www.w3schools.com/sql/) - simple step by step sql intro
-* [tutorialspoint sql turtorial](https://www.tutorialspoint.com/sql/index.htm) - simple step by step sql intro
-* [codecademy sql turtorial](https://www.codecademy.com/learn/learn-sql) - learn by doing. codecademy offers severl sql relative courses in practices
-* [geeksforgeeks sql turtorial](https://www.geeksforgeeks.org/sql-tutorial/) - a bit detailed sql tutorial. including some advanced topics
-* [guru99 sql turtorial](https://www.guru99.com/sql.html) - a bit advanced sql tutorial.
-* [mode.com sql turtorial](https://mode.com/sql-tutorial/) - from beginning to advanced, including hands-on cases. Highly recommended 
-* [w3resource sql test](https://www.w3resource.com/sql-exercises/) - sql test. show me what you've got!
-
 ### PYTHON  
 * [Python official intro](https://docs.python.org/3/tutorial/) - official python tutorial 
 * [Python central tutorial](https://www.pythoncentral.io/) - pythoncentral  tutorial
@@ -25,6 +16,16 @@
 * [Python exceptions](https://realpython.com/python-exceptions/) - learn how to handle exceptions in python 
 * [Software Testing -- Python](https://www.udacity.com/course/software-testing--cs258) - write test in python (advanced)
 * [Software Debugging -- Python](https://www.udacity.com/course/software-debugging--cs259) - debug in python (advanced)
+* [practical-python](https://github.com/dabeaz-course/practical-python/blob/master/Notes/Contents.md) -- Practical Python Programming
+ 
+### SQL 
+* [w3schools sql turtorial](https://www.w3schools.com/sql/) - simple step by step sql intro
+* [tutorialspoint sql turtorial](https://www.tutorialspoint.com/sql/index.htm) - simple step by step sql intro
+* [codecademy sql turtorial](https://www.codecademy.com/learn/learn-sql) - learn by doing. codecademy offers severl sql relative courses in practices
+* [geeksforgeeks sql turtorial](https://www.geeksforgeeks.org/sql-tutorial/) - a bit detailed sql tutorial. including some advanced topics
+* [guru99 sql turtorial](https://www.guru99.com/sql.html) - a bit advanced sql tutorial.
+* [mode.com sql turtorial](https://mode.com/sql-tutorial/) - from beginning to advanced, including hands-on cases. Highly recommended 
+* [w3resource sql test](https://www.w3resource.com/sql-exercises/) - sql test. show me what you've got!
 
 ### ML 
 - https://github.com/afshinea/stanford-cs-230-deep-learning
